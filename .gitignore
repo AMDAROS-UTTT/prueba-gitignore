@@ -1,0 +1,12 @@
+# Secretos
+.env
+secretos.txt
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Dependencias y caché
+node_modules/
+__pycache__/
+.venv/
